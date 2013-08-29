@@ -1,9 +1,23 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Notificaciones\Main.cs">
+    <Files>
+      <File FileName="Notificaciones\Main.cs" Line="3" Column="1" />
+    </Files>
     <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Notificaciones" expanded="True">
+            <Node name="Módulos" selected="True" />
+          </Node>
+        </State>
+      </Pad>
       <Pad Id="ClassPad">
-        <State />
+        <State expanded="True">
+          <Node name="Notificaciones" expanded="True" selected="True">
+            <Node name="MainWindow" expanded="True" />
+          </Node>
+        </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
