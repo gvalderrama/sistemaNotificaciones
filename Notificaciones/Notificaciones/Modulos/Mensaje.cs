@@ -1,6 +1,6 @@
 using System;
 
-namespace EjemploVentana
+namespace Notificaciones
 {
 	public partial class Mensaje : Gtk.Window
 	{
