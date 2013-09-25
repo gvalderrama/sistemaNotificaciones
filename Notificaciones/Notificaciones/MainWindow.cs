@@ -7,7 +7,7 @@ public partial class MainWindow: Gtk.Window
 	{
 		Build ();
 	
-		new EjemploVentana.Mensaje();
+		//new EjemploVentana.Mensaje();
 	}
 
 	
