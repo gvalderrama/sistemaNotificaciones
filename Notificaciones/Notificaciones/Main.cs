@@ -16,8 +16,8 @@ namespace Notificaciones
 			Console.WriteLine("comprovado");
 
 			//Se crear un archivo de texto
-			Historial historial = new Historial();
-		
+			string fecha = "hola";
+			Historial historial = new Notificaciones.Historial(fecha);
 		}
 	}
 }

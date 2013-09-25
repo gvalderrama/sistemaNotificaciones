@@ -2,8 +2,8 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Notificaciones/Modulos/Historial.cs">
     <Files>
-      <File FileName="Notificaciones/Main.cs" Line="14" Column="16" />
-      <File FileName="Notificaciones/Modulos/Historial.cs" Line="15" Column="1" />
+      <File FileName="Notificaciones/Main.cs" Line="19" Column="52" />
+      <File FileName="Notificaciones/Modulos/Historial.cs" Line="6" Column="24" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
