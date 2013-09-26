@@ -1,17 +1,16 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Notificaciones/Modulos/Historial.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Notificaciones/Main.cs">
     <Files>
-      <File FileName="Notificaciones/Main.cs" Line="19" Column="52" />
-      <File FileName="Notificaciones/Modulos/Historial.cs" Line="6" Column="24" />
+      <File FileName="Notificaciones/Main.cs" Line="23" Column="2" />
+      <File FileName="Notificaciones/Modulos/Historial.cs" Line="25" Column="4" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
           <Node name="Notificaciones" expanded="True">
-            <Node name="Modulos" expanded="True">
-              <Node name="Historial.cs" selected="True" />
-            </Node>
+            <Node name="Modulos" expanded="True" />
+            <Node name="Main.cs" selected="True" />
           </Node>
         </State>
       </Pad>
